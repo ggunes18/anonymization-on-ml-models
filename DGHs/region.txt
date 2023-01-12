@@ -1,0 +1,7 @@
+Any
+	south
+		southwest
+		southeast
+	north
+		northwest
+		northeast
