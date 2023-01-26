@@ -1,6 +1,7 @@
 # anonymization-on-ml-models
-Comp430 Term Project - Fall2022
+Comp430 Term Project - Fall2022<br>
 
+Github Repo Link: https://github.com/ggunes18/anonymization-on-ml-models<br>
 
 How to run Anonymizers :gear::
 
