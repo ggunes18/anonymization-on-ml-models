@@ -36,6 +36,6 @@ You can change the model by commenting out the current model and uncommenting an
 You can change the model by commenting out the current model and uncommenting another model.<br>
 
 
-References
-Basic Mondrian is cloned from https://github.com/qiyuangong/Basic_Mondrian.
+References<br>
+Basic Mondrian is cloned from https://github.com/qiyuangong/Basic_Mondrian.<br>
 
