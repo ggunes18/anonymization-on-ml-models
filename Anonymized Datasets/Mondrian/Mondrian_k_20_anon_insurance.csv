@@ -1,3 +1,4 @@
+age;sex;bmi;children;smoker;region;charges
 [0,50);male;[10,30);present;yes;*;>=10000
 [0,50);male;[10,30);present;yes;*;>=10000
 [0,50);male;[10,30);present;yes;*;>=10000
@@ -361,7 +362,7 @@
 [0,50);male;[30,60);present;no;northwest;<10000
 [0,50);male;[30,60);present;no;northwest;<10000
 [0,50);male;[30,60);present;no;northwest;<10000
-[0,50);male;[30,60);present;no;northeast;<10z000
+[0,50);male;[30,60);present;no;northeast;<10000
 [0,50);male;[30,60);present;no;northeast;<10000
 [0,50);male;[30,60);present;no;northeast;<10000
 [0,50);male;[30,60);present;no;northeast;<10000
