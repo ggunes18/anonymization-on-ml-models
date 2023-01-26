@@ -5,9 +5,9 @@ Comp430 Term Project - Fall2022
 How to run Anonymizers :gear::
 
 1) Mondrian Anonymizer (IMPORTANT: It works only with Python 2.7)
--Clone the repository using following command:
+-Clone the repository using following command:\
 ``` git clone https://github.com/ggunes18/anonymization-on-ml-models.git ```
--Then change directory to this repo.
+-Then change directory to this repo.\
 -In order to use Mondrian anonymizer, you should use cd command to get into the directory of Basic_Mondrian.
 ``` cd Basic_Mondrian/ ```
 -Then run the anonymizer.py code with parameter c which stands for insurance. For instance:
