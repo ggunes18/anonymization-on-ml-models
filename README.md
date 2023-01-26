@@ -34,3 +34,8 @@ You can change the model by commenting out the current model and uncommenting an
 -Run all of the cells to see the results of evaluation metrics.<br>
 
 You can change the model by commenting out the current model and uncommenting another model.<br>
+
+
+References
+Basic Mondrian is cloned from https://github.com/qiyuangong/Basic_Mondrian.
+
