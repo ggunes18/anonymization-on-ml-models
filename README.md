@@ -48,4 +48,4 @@ You can change the model by commenting out the current model and uncommenting an
 
 References<br>
 Basic Mondrian is cloned from https://github.com/qiyuangong/Basic_Mondrian. We modified it for our dataset.<br>
-
+ARX Tool is can be reached from https://arx.deidentifier.org/<br>
