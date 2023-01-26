@@ -1,0 +1,4 @@
+southwest;south;*
+southeast;south;*
+northwest;north;*
+northeast;north;*
