@@ -17,6 +17,16 @@ How to run Anonymizers :gear::
 Domain generalization Hierarchies can be found in data/insurance_****.txt files. The input dataset that is modified for mondrian anonymizer can be found in data/insurance-mondrian-input.csv. <br>
 The default K value is 10. It can be changed by changing the DEFAULT_K variable in anonymizer.py.<br>
 
+2) ARX Tool
+- Download the ARX tool from: https://arx.deidentifier.org/downloads/<br>
+-Give insurance_labeled.csv as input data for ARX.<br>
+-Define domaing generalization hierarchies given in the ./ARX/DGHs/***.txt files for each attribute.<br>
+-Label "charges" as sensitive attribute and other attributes as "quasi-identifier".<br>
+-Define k and l parameters to anonymize the input dataset.<br>
+-Perform anonymization.<br>
+
+The ARX project file that was prepared for this project is ./ARX/anonymization.deid file.<br>
+
 How to run Jupyter Notebook Files:<br>
 1) Insurance ML Analysis with Original Data<br>
 -Change directory to the directory of this repo.<br>
