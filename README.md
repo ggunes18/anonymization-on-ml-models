@@ -39,7 +39,7 @@ You can change the model by commenting out the current model and uncommenting an
 
 2) Insurance ML Analysis with Anonymized Data<br>
 -Open the InsuranceMLAnalysisAnon.ipynb<br>
--In the pd.read_csv function pass the path of the anonymized file such as:<br>
+-In the pd.read_csv function pass the path of the anonymized file such as with appropriate seperator:<br>
 "Mondrian_k_5_anon_insurance.csv"<br>
 -Run all of the cells to see the results of evaluation metrics.<br>
 
